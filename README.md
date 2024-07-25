@@ -1,0 +1,3 @@
+- 👋 Apex
+- 👀 The Mission: To extend the applicability of infrastructural technology through creation, integration, and optimization. Simply, in a manner for all.
+- 📫 Email contact: adam@apexintco.com
